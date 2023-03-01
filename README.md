@@ -1,4 +1,4 @@
-# sudoku
+# sudoku solver
 
 ```
 >>> import sudoku
